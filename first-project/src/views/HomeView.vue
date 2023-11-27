@@ -4,10 +4,10 @@
 <template>
   <main>
     <h1 class="green">Veja mais projetos</h1>
-    <a>Angular</a>
-    <a>Spotify</a>
-    <a>Portifolio</a>
-    <a>GrowthStage</a>
+    <a href="https://angular-alura-chi.vercel.app/">Angular</a>
+    <a href="https://marcost-800.github.io/Clone-do-Spotify/">Spotify</a>
+    <a href="https://marcos-jr-portifolio-2023.vercel.app/">Portifolio</a>
+    <a href="https://exquisite-florentine-3881d1.netlify.app/">GrowthStage</a>
   </main>
 </template>
 
